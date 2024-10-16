@@ -41,13 +41,13 @@ public class CandidatoController {
 	}
 	
 	@GetMapping("/vaga/{vaga}")
-	public List<CandidatoDto> buscarPorVagas(@PathVariable VagaDesejada vagaDesejada) {
-		return servico.buscarPorVagas(vagaDesejada);
+	public List<CandidatoDto> buscarPorVagas(@PathVariable String vaga) {
+		return servico.buscarPorVagas(VagaDesejada.valueOf(vaga.toUpperCase()));
 	}
 	
-	@GetMapping("/cliente/{cliente}")
-	public List<CandidatoDto> buscarPorEscolaridade(@PathVariable Escolaridade escolaridade) {
-		return servico.buscarPorEscolaridade(escolaridade);
+	@GetMapping("/escolaridade/{escolaridade}")
+	public List<CandidatoDto> buscarPorEscolaridade(@PathVariable String escolaridade) {
+		return servico.buscarPorEscolaridade(Escolaridade.valueOf(escolaridade.toUpperCase())); //transformar String em enum
 	}
 	
 	@PostMapping
