@@ -40,10 +40,7 @@ Desenvolver uma API RESTful utilizando Spring e Java para gerenciar informaçõe
 
 - **Java com Spring Boot**: Para a criação de uma API robusta e eficiente.
 - **Flyway**: Para o controle de versão do banco de dados.
-- **JWT**: Para autenticação e controle de acesso seguro.
 - **DTOs**: Para uma transferência de dados eficaz entre as camadas da aplicação.
-- **Swagger**: Para documentação clara e acessível da API.
-- **Trello**: Para gestão de tarefas e acompanhamento do progresso.
 
 ## Funcionalidades Implementadas
 
@@ -69,6 +66,3 @@ Em caso de dúvidas ou sugestões, entre em contato comigo:
 
 - **Michele Moreira**: [LinkedIn](https://www.linkedin.com/in/michelemoreira-s/)
 
----
-
-Espero que esse README reflita todo o seu trabalho e dedicação na avaliação! Se precisar de mais alguma coisa, estou aqui! 🌟🚀
