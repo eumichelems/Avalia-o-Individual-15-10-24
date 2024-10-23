@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esta avaliação foi realizada como parte da disciplina de API RESTful, sob a orientação da brilhante professora Jacqueline Oliveira. O objetivo foi desenvolver e avaliar uma API seguindo requisitos específicos, garantindo a robustez e a funcionalidade do projeto.
+Esta avaliação foi realizada como parte da disciplina de API RESTful dia 15/10/2024, sob a orientação da brilhante professora Jacqueline Oliveira pelo SERRATEC - Parque Tecnológico da Região Serrana RJ. O objetivo foi desenvolver e avaliar uma API seguindo requisitos específicos, garantindo a robustez e a funcionalidade do projeto.
 
 ## Objetivo
 
