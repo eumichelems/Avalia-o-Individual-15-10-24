@@ -19,8 +19,7 @@ Desenvolver uma API RESTful utilizando Spring e Java para gerenciar informaçõe
        - escolaridade (tipos: MEDIO, FUNDAMENTAL, GRADUACAO, POS_GRADUACAO, ESPECIALIZACAO)
        - vagaDesejada (tipos: ANALISTA, QA, DEV, TECH_LEAD, SUPORTE, UX)
        - statusCurriculo (tipos: EM_ANALISE, REPROVADO, APROVADO)
-   - Utilizar anotações do JPA para mapear as entidades para tabelas no banco de dados.
-
+   
 2. **DTOs (Data Transfer Objects)**:
    - Criar DTOs para representar os objetos que serão enviados e recebidos pela API. Os DTOs devem ser utilizados para evitar vazamento de informações e garantir uma separação clara entre a camada de apresentação e a camada de negócios.
 
