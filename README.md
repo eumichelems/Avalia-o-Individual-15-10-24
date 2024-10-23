@@ -8,17 +8,6 @@ Esta avaliação foi realizada como parte da disciplina de API RESTful dia 15/10
 
 Desenvolver uma API RESTful utilizando Spring e Java para gerenciar informações de um sistema de cadastro de currículos. A API deve permitir a manipulação de dados relacionados aos candidatos a vagas em processos seletivos.
 
-## Índice
-
-- [Descrição](#descrição)
-- [Objetivo](#objetivo)
-- [Requisitos](#requisitos)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Funcionalidades Implementadas](#funcionalidades-implementadas)
-- [Checklist do Projeto](#checklist-do-projeto)
-- [Organização do Código](#organização-do-código)
-- [Contato](#contato)
-
 ## Requisitos
 
 1. **Modelagem de Dados**:
@@ -78,7 +67,7 @@ Desenvolver uma API RESTful utilizando Spring e Java para gerenciar informaçõe
 
 Em caso de dúvidas ou sugestões, entre em contato comigo:
 
-- **Michele Moreira**: [LinkedIn](https://www.linkedin.com/in/michelemoreira/)
+- **Michele Moreira**: [LinkedIn](https://www.linkedin.com/in/michelemoreira-s/)
 
 ---
 
