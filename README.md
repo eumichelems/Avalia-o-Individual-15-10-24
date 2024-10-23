@@ -39,20 +39,15 @@ Desenvolver uma API RESTful utilizando Spring e Java para gerenciar informaçõe
 ## Tecnologias Utilizadas
 
 - **Java com Spring Boot**: Para a criação de uma API robusta e eficiente.
-- **Flyway**: Para o controle de versão do banco de dados.
 - **DTOs**: Para uma transferência de dados eficaz entre as camadas da aplicação.
 
 ## Funcionalidades Implementadas
 
 - **CRUD Completo**: Para todos os recursos da API (candidatos, vagas, escolaridade, status do currículo).
-- **Validações Personalizadas**: Mensagens de erro personalizadas para exceções de item não encontrado e validações de cadastro.
-- **Autenticação e Controle de Acesso**: Implementado com JWT e Spring Security.
 
 ## ✅ Checklist do Projeto
 
 - Implementação do CRUD para todos os recursos
-- Validações personalizadas e tratamento de exceções
-- Implementação de segurança com JWT
 
 ## 🛠️ Organização do Código
 
